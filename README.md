@@ -4,7 +4,7 @@
 
 > *"I don't just write code—I architect solutions that transform businesses."*
 
-## [Who I Am / Summary in Flashy Website Format](https://gluebag.github.io/)
+## [Who I Am in Flashy Website Format](https://gluebag.github.io/)
 
 I'm the developer who started by lying about my age to land contracts at 16, built a telecom platform processing 30M+ daily messages, and helped architect systems now valued at $150M. After 18 years in the trenches, I've learned that great software isn't just about clean code—it's about delivering measurable business impact.
 
